@@ -13,8 +13,6 @@ public class Task1 {
         for (Map.Entry<Character, Integer> entry : charCount.entrySet()) {
             if (entry.getValue() == 1) {
                 return entry.getKey();
-
-
             }
         }
         return null;
