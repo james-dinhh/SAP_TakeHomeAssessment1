@@ -38,11 +38,9 @@ git clone https://github.com/your-username/your-repo-name.git
 
 After the project opens, IntelliJ may ask you to set up a Project SDK.
 
-If prompted:
-
 1. Click "Setup SDK".
 2. Choose an existing JDK on your system .
-3. If no JDK is listed, click **"Add SDK"** and navigate to the installed JDK directory.
+3. If no JDK is listed, click "Add SDK" and navigate to the installed JDK directory.
 
 ---
 
