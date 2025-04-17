@@ -23,7 +23,7 @@ public class Task2 {
 
     public static void main(String[] args) {
         // Test cases
-        System.out.println("Character count for 'sapstar': " + countCharacters("sapstar"));
-        System.out.println("Character count for 'aaabbbbcc': " + countCharacters("aaabbbbcc"));
+        System.out.println(countCharacters("sapstar"));
+        System.out.println(countCharacters("aaabbbbcc"));
     }
 }
