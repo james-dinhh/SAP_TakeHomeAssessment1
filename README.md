@@ -22,11 +22,8 @@ Make sure you have the following installed on your machine:
 1. Open your terminal or command prompt.
 2. Run the following command:
 
-```bash
 git clone https://github.com/your-username/your-repo-name.git
 
-## 🚀 **Open Project in IntelliJ IDEA**
----
 
 ## 🚀 **Open Project in IntelliJ IDEA, Configure SDK, and Run**
 
