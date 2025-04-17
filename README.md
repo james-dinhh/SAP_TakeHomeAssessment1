@@ -24,6 +24,7 @@ Make sure you have the following installed on your machine:
 
 git clone https://github.com/your-username/your-repo-name.git
 
+---
 
 ## 🚀 **Open Project in IntelliJ IDEA, Configure SDK, and Run**
 
