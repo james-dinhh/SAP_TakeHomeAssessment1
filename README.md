@@ -25,7 +25,7 @@ Make sure you have the following installed on your machine:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 
-## 🚀 Open Project in IntelliJ IDEA
+## 🚀 **Open Project in IntelliJ IDEA**
 
 1. Launch IntelliJ IDEA.
 2. Click on "Open" or "Open or Import".
@@ -34,7 +34,7 @@ git clone https://github.com/your-username/your-repo-name.git
 
 ---
 
-## 🛠️ Configure Project SDK
+## 🛠️ **Configure Project SDK**
 
 After the project opens, IntelliJ may ask you to set up a Project SDK.
 
@@ -44,7 +44,7 @@ After the project opens, IntelliJ may ask you to set up a Project SDK.
 
 ---
 
-## ▶️ Run the Project
+## ▶️ **Run the Project**
 
 1. Locate the `Main` class or the class containing the `main()` method in the **Project** view.
 2. Right-click the file and select Run 'Main'.
