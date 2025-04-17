@@ -31,7 +31,7 @@ public class Task1 {
 
     public static void main(String[] args) {
         // Test cases
-        System.out.println("First non-repeating character in 'sapstar': " + firstNonRepeatingChar("sapstar"));
-        System.out.println("First non-repeating character in 'aabbcc': " + firstNonRepeatingChar("aabbcc"));
+        System.out.println(firstNonRepeatingChar("sapstar"));
+        System.out.println(firstNonRepeatingChar("aabbcc"));
     }
 }
