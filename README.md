@@ -43,7 +43,7 @@ After the project opens, IntelliJ may ask you to set up a Project SDK.
 
 ### ▶️ **Run the Project**
 
-1. Locate the `Main` class or the class containing the `main()` method in the **Project** view.
+1. Locate the class containing the `main()` method in the **Project** view.
 2. Right-click the file and select **Run 'Main'**.
 3. Alternatively, click the green **Run** button in the top right corner of IntelliJ.
 
